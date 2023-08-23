@@ -1,0 +1,27 @@
+[{
+        "name": "La Experiencia de la creación teatral",
+        "code": "ACT1315",
+        "about": "Curso teórico-práctico que vincula a las y los estudiantes con la escena nacional actual a través de los propios artistas. Los y las estudiantes serán capaces de reconocer las distintas etapas del proceso de creación teatral y los componentes involucrados en la puesta en escena. El curso propicia el uso de metodologías basadas en el aprendizaje en equipos, promoviendo la comunicación efectiva. Las estrategias evaluativas consideran instrumentos clásicos (informe y prueba) y la creación de una memoria audiovisual de un proceso de creación observado"  
+    }, 
+    {
+        "name": "Apreciación de Música en Vivo",
+        "code": "MUC1000",
+        "about": "El curso se enfoca en el aprendizaje de la capacidad analítica y sensibilidad estética frente a la interpretación musical, a través de la experiencia de asistir regularmente a conciertos en vivo asignados por los docentes del curso. Las clases abordan los recursos expresivos vinculados a la interpretación de la música y los modos de escucha, el proceso de asimilación de una obra, estilo y tiempo musical, entre otros. Las actividades se imparten en una modalidad mixta: una sesión semanal de clases y otra de asistencia a conciertos. Los aprendizajes son evaluados mediante trabajos escritos de análisis de lo observado en los conciertos en vivo"   
+    },
+    {
+        "name": "Dibujo de Croquis y Boceto",
+        "code": "ARO103D",
+        "about": "En este curso los estudiantes desarrollarán habilidades de observación y técnicas de representación gráfica, por medio del dibujo de croquis y boceto a partir de diferentes modelos. Los trabajos serán evaluados de manera continua, reforzando el proceso individual de cada estudiante, a partir de trabajo en taller y en espacios exteriores"
+    },
+    {
+        "name": "Historia de la Comunicación Social",
+        "code": "COM109",
+        "about": "El curso abordará los aspectos centrales y las características del surgimiento y desarrollo de los principales medios de comunicación social -desde la invención de la imprenta hasta la aparición de los medios audiovisuales- los distintos impactos culturales que éstos provocaron en las sociedades del mundo occidental en general, y en Chile en particular y las relaciones de influencia mutua que se fueron articulando entre los medios de comunicación y los contextos históricos en que éstos se fueron desarrollando"
+    },
+    {
+        "name": "Periodismo en Redes Sociales",
+        "code": "COM825",
+        "about": "En este curso los estudiantes analizarán y aprenderán a utilizar las distintas redes sociales que existen, desde una perspectiva periodística. A través de cátedra, estudio de casos y talleres diferenciarán las características, lenguaje, usuarios y objetivo de las distintas redes sociales y usarán herramientas de reporteo en redes sociales para generarestrategias de difusión periodística en estas plataformas y analizar el significado e importancia de las estadísticas. Las evaluaciones consideran exposición oral y proyecto creativo, entre otras"
+    }
+]
+
