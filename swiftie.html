@@ -18,7 +18,7 @@
         </header>
         <main>
             <div>
-                <p>Siendo las <span id="horas"></span>:<span id="minutos"></span>, recuerdo el tema <span id="cancion"></span> de Taylor Swift. En este tema, del disco <span id="disco"></span>, ella canta:</p>
+                <p>Siendo las <span id="horas"></span>:<span id="minutos"></span>, recuerdo el tema <span id="cancion"></span> de Taylor Swift. En este tema, del disco <span id="album"></span>, ella canta:</p>
                 <blockquote id="letra"></blockquote>
             </div>
         </main>
@@ -37,11 +37,11 @@
                 var h = hora_hoy.getHours();
                 var m = hora_hoy.getMinutes();
                 noCanvas();
-                select("#horas").html(h);
                 select("#minutos").html(m);
-                select("#cancion").html(data.song);
-                select("#disco").html(data.album);                
+                select("#horas").html(h);               
                 select("#letra").html(data.quote);
+                select("#cancion").html(data.song);
+                select("#album").html(data.album); 
             }
         </script>
 
